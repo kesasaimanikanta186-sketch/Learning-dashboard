@@ -7,7 +7,7 @@ import SectionHeader from "./components/dashboard/SectionHeader";
 import { supabase } from "../lib/supabase";
 import type { Course } from "../types/course";
 import type { Activity } from "../types/activity";
-import { Certificate } from "@/types/certificate";
+import type { Certificate } from "../types/certificate";
 import AddCourseForm from "./components/dashboard/AddCourseForm";
 
 
