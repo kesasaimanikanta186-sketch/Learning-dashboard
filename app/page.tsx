@@ -1,4 +1,4 @@
-
+export const dynamic = "force-dynamic";
 import Sidebar from "./components/dashboard/Sidebar";
 import HeroCard from "./components/dashboard/HeroCard";
 import StatsCard from "./components/dashboard/StatsCard";
