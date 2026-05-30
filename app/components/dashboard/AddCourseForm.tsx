@@ -27,7 +27,7 @@ export default function AddCourseForm() {
   setTitle("");
   setProgress("");
 
-  location.reload();
+  window.location.href = "/";
 }
   return (
     <div className="rounded-3xl border border-white/10 bg-zinc-900/60 p-6">
